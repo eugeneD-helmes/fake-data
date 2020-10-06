@@ -231,6 +231,8 @@
                     "bs": "target end-to-end models"
                 }
             }
-        ]
+        ],
+        "total": 10,
+        "total_results": 10
     }
 }
